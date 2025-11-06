@@ -1,0 +1,5 @@
+# Env files (não versionar)
+.env
+backend/.env
+frontend/.env
+*.env
