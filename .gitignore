@@ -1,5 +1,11 @@
-# Env files (não versionar)
+# Virtualenvs
+.venv/
+venv/
+**/.venv/
+**/venv/
+
+# Env files
 .env
+*.env
 backend/.env
 frontend/.env
-*.env
